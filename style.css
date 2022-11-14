@@ -1,0 +1,54 @@
+.navbar{
+    background-color: rgb(96, 108, 56);
+}
+.navbar-brand{
+    color: rgb(221, 161, 94);
+    
+}
+.navbar-brand:hover{
+    color: rgb(254, 250, 224);
+    
+}
+.nav-link{
+    color:rgb(221, 161, 94) ;
+    
+}
+.navbar-toggler{
+    border: solid;
+    border-radius: 25px;
+}
+
+
+.nav-link:hover{
+    color:rgb(254, 250, 224) ;
+    background-color:rgb(188, 108, 37);
+    border-radius: 10px;
+    padding-left: 5px;
+}
+
+button:hover{
+    background-color:rgb(188, 108, 37) ;
+    border-radius: 25px;
+    border-color:rgb(254, 250, 224) ;
+    border-width: 3px;
+    
+}
+
+button{
+    border-radius: 25px;
+    color: rgb(188, 108, 37);
+}
+
+.foot{
+    background-color:rgb(96, 108, 56) ;
+    text-align: center;
+    margin: 15px;
+    border-radius: 5px;
+    padding: 3px;
+    
+
+}
+
+h6{
+    color:rgb(221, 161, 94) ;
+}
